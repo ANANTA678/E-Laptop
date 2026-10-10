@@ -1,0 +1,72 @@
+------------------------------NEW FILE upload----------------------------------
+
+1) Check git hub loging is not ----> git config --list
+
+1) OR if account is not logging then log in your account ----> 
+git config --global user.name "anantap099"
+git config --global user.email "anantap099@gmail.com"
+
+2) Give desktop file path ---> cd {File_Path}
+
+3) inisiate git file ---> git init
+
+ Check the status ---> git status
+
+4) add file for all file ---> git add . 
+OR  for specific file ---> git add {file name + extenction}
+
+5) Check the status ---> git status
+
+6) git add README.md
+
+7) git commit -m "first commit"
+
+8) git branch -M main
+
+9) git remote add origin {git_hub_project_account_link} 
+--Like--> https://github.com/ANANTA678/Git-Hub-Code-new-one.git
+
+10) git push -u origin main
+
+11) if you want to Check git hub link where you are uploaded the file ---> git remote -v
+-------------------------------all ready used file----------------------------
+
+1) Check git hub loging is not ---> git config --list
+
+1) OR if account is not logging then log in your account ----> 
+git config --global user.name "anantap099"
+git config --global user.email "anantap099@gmail.com"
+
+2) Give desktop file path ---> cd {File_Path}
+
+
+3) Check the status ---> git status
+
+4) add file for all file ---> git add . 
+---OR---for specific file ---> git add {file name + extenction}
+
+5) Check the status ---> git status
+
+6) git commit -m "first commit"
+
+7) git branch -M main
+
+8) git remote add origin {git_hub_project_link } 
+---LIKE--->> https://github.com/ANANTA678/Git-Hub-Code-new-one.git
+
+9) git push -u origin main
+
+10) Check git hub link where you are uploaded the file ---> git remote -v
+
+---------------------------Git hub Project Download--------------------------
+1) Check git hub loging is not ---> git config --list
+
+2) or if you want to log-in your account ---> 
+git config --global user.name "anantap099"
+git config --global user.email "anantap099@gmail.com"
+
+3) Give desktop file path ---> cd {File_Path}
+
+4) download github file in desktop ---> git clone {Githun_repo_link} 
+---LIKE--->>  https://github.com/ANANTA678/Git-Hub-Code-new-one.git
+
