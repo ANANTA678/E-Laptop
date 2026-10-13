@@ -13,7 +13,8 @@ git config --global user.email "anantap099@gmail.com"
  Check the status ---> git status
 
 4) add file for all file ---> git add . 
-OR  for specific file ---> git add {file name + extenction}
+OR  for specific file ---> git add {"Day 1.ipynb"}
+OR Multiple File --->  git add "Day 1.ipynb" "Data1.csv" "Machine Learning"
 
 5) Check the status ---> git status
 
